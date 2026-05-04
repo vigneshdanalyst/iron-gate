@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iron Gate</string>
+    <string name="device_admin_label">Iron Gate Device Admin</string>
+    <string name="device_admin_desc">Prevents disabling Iron Gate while lock is active.</string>
+    <string name="accessibility_desc">Blocks selected apps by showing a non-dismissible overlay during lock sessions.</string>
+</resources>

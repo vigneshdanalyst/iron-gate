@@ -1,21 +1,40 @@
-# JDK/Gradle files
+# Gradle files
+.gradle/
+gradle-*/
+gradle.zip
+*.zip
+*.msi
+
+# JDK files
+jdk17.zip
+jdk17.msi
+*.jdk
+
+# Android build outputs
+app/build/
+*.apk
+*.dex
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Large binaries - DO NOT COMMIT
+gradle.zip
+jdk17.zip
+jdk17.msi
+gradle-8.7/
+.gradle/
 *.zip
 *.msi
 *.exe
-*.jar
-gradle-*/
-
-# Android build files
-app/build/
 *.dex
-*.apk
-
-# IDE files
-.idea/
-*.iml
-.gradle/
+app/build/
 local.properties
+.idea/
 
-# OS files
-.DS_Store
-Thumbs.db
