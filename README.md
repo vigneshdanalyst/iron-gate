@@ -52,3 +52,6 @@ The default PIN is `1234`. Change it in Settings.
 - The lock cannot be bypassed while active
 - Device Admin prevents disabling the app without unlocking first
 - Boot completed receiver ensures protection resumes after restart
+
+
+## Find the App here : https://appcenter.me/K6D4UQ
