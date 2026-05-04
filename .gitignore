@@ -1,0 +1,21 @@
+# JDK/Gradle files
+*.zip
+*.msi
+*.exe
+*.jar
+gradle-*/
+
+# Android build files
+app/build/
+*.dex
+*.apk
+
+# IDE files
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
